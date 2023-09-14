@@ -27,3 +27,5 @@
   <h1>Seja bem vindo ao universo de Valorant!!</h1>
    <p> Mesmo sendo um jogador casual ou um competidor</p>
    <p> Explore o mundo do Valorant, mergulhe em sua historia </p>
+</body> 
+</html>
