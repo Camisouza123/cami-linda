@@ -5,15 +5,7 @@
 <meta charset="UTF-8">
 </style>
  body {
-  text-align: above;
-  diplay: flex;
-  flex-direction: column;
-  jutify-content: flex-start;
-  align-iten; center;
-  height: 100yh;
-  margin: 0;
-}
- h1 { 
+h1 {
  margin_top: 20px;
 }
 
